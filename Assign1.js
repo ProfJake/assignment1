@@ -17,8 +17,8 @@ thats OK for now.  */
 
 //Problem 1  Simple Array Searching
 /*Fill in the following function declaration.  The procedure you
-provide should be able to find and return the given target in the array, if it 
-exists, or null if it does not.
+provide should be able to find and return the index value of the given 
+target in the array, if it exists, or null if it does not.
 
 You do not have to make any assumptions about the argument types.
 If arr does not hold items of target type, this should return null*/
